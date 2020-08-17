@@ -7,7 +7,7 @@ import React, { useState, useEffect } from "react";
 
 const api_key = process.env.REACT_APP_API_KEY
 
-//4f14f89747c3df89e6da37dd67d8126c
+
 //"http://api.weatherstack.com/current?access_key="+api_key+"&query="+city
 const countriesurl="https://restcountries.eu/rest/v2/all"
 
